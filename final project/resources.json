@@ -1,0 +1,102 @@
+{
+  "居住問題": {
+    "keywords": ["租屋", "房東", "沒地方住", "搬家", "租金", "流浪", "住所", "居住", "被趕", "無家可歸"],
+    "resources": [
+      ["崔媽媽基金會", "https://www.tmm.org.tw/"],
+      ["財團法人台灣全民居住協會", "https://www.twhousing.org.tw/"],
+      ["租屋補助資訊平台", "https://has.cpami.gov.tw/"],
+      ["內政部住宅補貼專區", "https://pip.moi.gov.tw/"],
+      ["房東與房客糾紛調解（法律扶助）", "https://www.laf.org.tw/"]
+    ]
+  },
+  "經濟困難": {
+    "keywords": ["沒錢", "付不出帳單", "經濟壓力", "生活費", "貧窮", "財務困難"],
+    "resources": [
+      ["社會及家庭署急難紓困", "https://www.sfaa.gov.tw/"],
+      ["地方政府社會救助", "https://www.1968.org.tw/"],
+      ["弱勢家庭補助", "https://www.mohw.gov.tw/"],
+      ["教會或慈善團體經濟援助", "https://www.tzuchi.org.tw/"],
+      ["租金補貼", "https://pip.moi.gov.tw/"]
+    ]
+  },
+  "心理壓力": {
+    "keywords": ["憂鬱", "焦慮", "痛苦", "想死", "情緒", "壓力大", "失眠", "恐慌", "精神崩潰", "無助"],
+    "resources": [
+      ["1925安心專線", "https://1925.gov.tw/"],
+      ["張老師基金會", "https://www.teacherchang.org.tw/"],
+      ["心理諮商資源網", "https://counseling.mohw.gov.tw/"],
+      ["衛福部心理健康司", "https://www.mohw.gov.tw/"],
+      ["台灣心理治療協會", "https://www.tpca.org.tw/"]
+    ]
+  },
+  "家庭衝突": {
+    "keywords": ["家暴", "吵架", "家庭問題", "衝突", "離家", "家人不支持", "被打", "控制", "冷暴力"],
+    "resources": [
+      ["113保護專線", "https://www.1968.org.tw/"],
+      ["家庭暴力防治中心", "https://www.sfaa.gov.tw/"],
+      ["婦女救援基金會", "https://www.twrf.org.tw/"],
+      ["兒童及少年保護資源", "https://www.mohw.gov.tw/"],
+      ["家扶基金會", "https://www.ccf.org.tw/"]
+    ]
+  },
+  "教育困難": {
+    "keywords": ["輟學", "學費", "沒學歷", "不想讀書", "補助", "在學", "重考", "退學"],
+    "resources": [
+      ["教育部就學貸款資訊", "https://www.edu.tw/"],
+      ["各縣市學費補助計畫", "https://www.edu.tw/"],
+      ["夜間進修/職訓資源", "https://www.wda.gov.tw/"],
+      ["青年教育與就業儲蓄帳戶方案", "https://www.yda.gov.tw/"],
+      ["新住民及弱勢學生助學", "https://www.edu.tw/"]
+    ]
+  },
+  "就業問題": {
+    "keywords": ["找不到工作", "被裁員", "工作壓力", "職場霸凌", "失業", "不想工作"],
+    "resources": [
+      ["勞動部就業服務站", "https://www.taiwanjobs.gov.tw/"],
+      ["就業促進課程", "https://www.wda.gov.tw/"],
+      ["職業重建", "https://www.wda.gov.tw/"],
+      ["青年就業領航計畫", "https://www.yda.gov.tw/"],
+      ["台灣就業通", "https://www.taiwanjobs.gov.tw/"]
+    ]
+  },
+  "身體健康": {
+    "keywords": ["生病", "看醫生", "沒健保", "身體痛", "受傷", "健康出問題"],
+    "resources": [
+      ["全民健保署", "https://www.nhi.gov.tw/"],
+      ["低收入戶醫療補助", "https://www.mohw.gov.tw/"],
+      ["慈濟免費義診", "https://www.tzuchi.org.tw/"],
+      ["慢性病照護資源", "https://www.hpa.gov.tw/"],
+      ["身障者健康照顧", "https://www.sfaa.gov.tw/"]
+    ]
+  },
+  "精神障礙": {
+    "keywords": ["精神病", "幻聽", "妄想", "思覺失調", "躁鬱", "精神分裂"],
+    "resources": [
+      ["心智障礙者協會", "https://www.tami.org.tw/"],
+      ["社區心理衛生中心", "https://www.mohw.gov.tw/"],
+      ["身心障礙福利手冊申請", "https://dep.mohw.gov.tw/"],
+      ["精神障礙就醫補助", "https://www.sfaa.gov.tw/"],
+      ["安心專線 1925", "https://1925.gov.tw/"]
+    ]
+  },
+  "社交孤立": {
+    "keywords": ["孤單", "沒朋友", "沒人說話", "社交焦慮", "與人疏離", "被排擠"],
+    "resources": [
+      ["生命線協談", "https://www.life.org.tw/"],
+      ["社區支持團體", "https://www.mohw.gov.tw/"],
+      ["張老師", "https://www.teacherchang.org.tw/"],
+      ["身心障礙社交團體", "https://www.sfaa.gov.tw/"],
+      ["青年志工交流資源", "https://youthhub.tw/"]
+    ]
+  },
+  "急難救助": {
+    "keywords": ["火災", "天災", "突發狀況", "無法生活", "求救", "急難"],
+    "resources": [
+      ["社會及家庭署急難救助", "https://www.sfaa.gov.tw/"],
+      ["紅十字會緊急支援", "https://www.redcross.org.tw/"],
+      ["地方政府災害應變中心", "https://www.1968.org.tw/"],
+      ["家扶基金會急難救助", "https://www.ccf.org.tw/"],
+      ["急難生活扶助（衛福部）", "https://www.mohw.gov.tw/"]
+    ]
+  }
+}
